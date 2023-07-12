@@ -1,0 +1,28 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Pastel",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 10,
+      "createdAt": "2023-07-10T19:36:44.505Z"
+    },
+    {
+      "id": 2,
+      "description": "Hambúrguer",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 60,
+      "createdAt": "2023-07-10T19:30:44.505Z"
+    },
+    {
+      "description": "Camiseta",
+      "price": 100,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2023-07-12T18:45:30.569Z",
+      "id": 3
+    }
+  ]
+}
